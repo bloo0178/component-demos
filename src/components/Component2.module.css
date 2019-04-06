@@ -1,0 +1,12 @@
+.Container {
+    color: blue;
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    margin:0;
+    padding:0;
+}
+
+.Background-Image {
+    height: 100%;
+}
