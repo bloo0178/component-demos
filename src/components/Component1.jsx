@@ -2,6 +2,12 @@ import React from "react";
 import styles from "./Component1.module.css";
 //import bones from "../images/cross-bones.svg";
 
+/*
+
+Using SVG as CSS background-image. Also, experiment using inline SVG. Offers more flexibility with modifying the SVG within the React component; however, can get messy with a long path.
+
+*/
+
 export function Component1(props) {
   return (
     <div className={styles.Container}>

@@ -1,0 +1,9 @@
+.Container {
+  width: 100%;
+  background-image: url("../images/topography-gradient.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  border: 3px solid blue;
+}

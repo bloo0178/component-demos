@@ -1,0 +1,6 @@
+.Container {
+    width: 100%;
+    color: orange;
+    box-sizing: border-box;
+    border: 5px solid green;
+}
